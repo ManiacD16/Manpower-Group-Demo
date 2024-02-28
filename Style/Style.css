@@ -1,0 +1,158 @@
+.container {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    /* height: auto; */
+    background-color: rgb(211, 212, 216);
+    /* margin-top: 40px; */
+
+}
+
+.heading {
+
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 26px;
+    color: rgb(67, 109, 167);
+    font-weight: 600;
+}
+
+.content1 {
+    text-align: center;
+    max-width: 600px;
+    font-weight: 300;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    font-family: Helvetica;
+    line-height: 24px;
+    margin-bottom: 12px;
+    box-sizing: 150px;
+    display: block;
+    margin-top: 20px;
+}
+
+.container1 {
+    width: 80%;
+    height: 100%;
+    text-align: center;
+    margin: auto;
+    /* border: 2px solid greenyellow; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.item {
+    margin: auto;
+    box-sizing: border-box;
+    padding: 0;
+
+}
+
+.item-1 {
+    max-height: 160px;
+    max-width: 100%;
+    height: auto;
+    width: 30%;
+    /* border: 2px solid greenyellow; */
+    display: inline-block;
+    margin: auto;
+    /* margin-top: 50px;
+    margin-bottom: 50px; */
+    box-sizing: border-box;
+
+}
+
+.subitem-1 {
+    background-image: url(../Image/logo1.png);
+    background-size: cover;
+    /* border: 2px solid greenyellow; */
+    height: 120px;
+    width: 120px;
+    margin: auto;
+}
+
+.subitem-2 {
+    margin: auto;
+    margin-top: 30px;
+    box-sizing: 25%;
+    box-sizing: 20px;
+}
+
+.subitem-3 {
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.item-2 {
+    /* background-image: url(../Image/logo2.png); */
+    max-height: 160px;
+    max-width: 100%;
+    height: auto;
+    width: 30%;
+    display: inline-block;
+    border-left: 2px solid grey;
+    border-right: 2px solid grey;
+    /* margin: auto;
+    margin-top: 50px; */
+    /* border: 2px solid greenyellow; */
+}
+
+.card-1 {
+    background-image: url(../Image/logo2.png);
+    background-size: cover;
+    /* border: 2px solid greenyellow; */
+    height: 120px;
+    width: 120px;
+    margin: auto;
+
+
+}
+
+.card-2 {
+    margin: auto;
+    margin-top: 40px;
+    box-sizing: 20px;
+}
+
+.card-3 {
+    margin: auto;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.item-3 {
+    /* background-image: url(../Image/logo3.png); */
+    max-height: 160px;
+    max-width: 100%;
+    height: auto;
+    width: 30%;
+    display: inline-block;
+    /* margin: auto;
+    margin-top: 50px; */
+    /* border: 2px solid greenyellow; */
+}
+
+.post-1 {
+    background-image: url(../Image/logo3.png);
+    background-size: cover;
+    /* border: 2px solid greenyellow; */
+    height: 120px;
+    width: 120px;
+    margin: auto;
+    margin-bottom: 39px;
+}
+
+.post-2 {
+    margin: auto;
+    margin-top: 30px;
+    box-sizing: 25%;
+    box-sizing: 20px;
+    margin-bottom: 57px;
+}
+
+.post-3 {
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
